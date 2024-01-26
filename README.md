@@ -1,5 +1,5 @@
 # Collision-detection-and-blinker-light-project-
-In this group project, me and my group members (Juan Alveraz, Esther Chang, and Veronica Hangsan) developed a system to improve vehicle safety using two Arduino circuits. 
+In this group project, me and my group members (Juan Alveraz (https://github.com/KilloPillers), Esther Chang, and Veronica Hangsan) developed a system to improve vehicle safety using two Arduino circuits. 
 
 This systems promotes defensive driving by warning a tailgater that they are at an unsafe distance from the driver. As a tailgater gets closer to the driver, the adaptive taillights will begin to flash to alert and capture thier attention. This reduces accidents due to inattentive and distracted driving. The taillights also have an attention-grabbing sequential blinker sequence. This function can be activated using the IR remote. 
 
